@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Zachary Chapman
 =======================================================================================================================================
 
-Web Developer
+ Full Stack Web Developer
 -------------
 
 I am currently working towards my education as a web developer with The Ohio state University + edX. I will be graduating in early May from a 24 week bootcamp.
